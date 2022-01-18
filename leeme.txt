@@ -1,0 +1,2 @@
+Estas son las pruebas de crear un repositorio en el computador y luego subirlo a git hub de genioinfo.
+para luego continuar en el mac. 
